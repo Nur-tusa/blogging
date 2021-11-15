@@ -15,6 +15,9 @@ This website is for creating ploger , viewing other people plogger and comenting
 3. Register to be allowed to log in to the application.
 
 4. A writer can create a blog from the application and update or delete blogs I have created.
+5. 
+# live link for this project
+ https://github.com/Nur-tusa/blogging.git
 
 ## App Installation
 
