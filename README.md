@@ -31,7 +31,7 @@ To get the code..
 
 3. Exporting Configurations
 
-    ###### export SQLALCHEMY_DATABASE_URI=postgresql+psycopg2://{User Name}:{password}@localhost/{database name}
+    
 
 4. Running the application
 
