@@ -38,11 +38,11 @@ To get the code..
 
 4. Running the application
 
-    ###### python3.8 manage.py server
+    # python3.9 manage.py server
 
 5. Testing the application
 
-    ###### python3.9 manage.py test
+    # 3.9 manage.py test
 
 
 ## Technologies Used
